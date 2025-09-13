@@ -1,7 +1,7 @@
 {
    "siteMetadata":{
       "title":"Portfolio",
-      "description":"Hi, my name is Maxim! This is my personal page where you can find out more about who I am, what I do, and the projects I'm working on.",
+      "description":"Hi, my name is Diddy Gyat! This is my personal page where you can find out more about who I am, what I do, and the projects I'm working on.",
       "embeds":{
          "color":"#ce6419",
          "twitter_card":"summary_large_image",
@@ -39,7 +39,7 @@
       "links":[
          {
             "label":"GitHub",
-            "url":"https://github.com/maximjsx/portfolio"
+            "url":"https://github.com/diddygyat/portfolio"
          },
          {
             "label":"Contact",
@@ -51,37 +51,37 @@
          },
          {
             "label":"Legal",
-            "url":"https://legal.maxim.cat"
+            "url":"https://legal.diddygyat.dev"
          }
       ]
    },
    "pages":{
       "custom":{
-         "HologramLib":{
+         "SkibidiLib":{
             "enabled":true,
-            "route":"/projects/hologramlib",
+            "route":"/projects/skibidilib",
             "navbar":false,
-            "title":"HologramLib",
-            "meta_title":"HologramLib",
-            "meta_description":"Minecraft hologram library with text, item & block displays, leaderboards, and extensive customization. packet-based, modern & easy to use",
-            "description":"A powerful **<gradient>packet-based</gradient>** text display hologram library for Minecraft servers with MiniMessage support, emoji rendering, and extensive customization options.",
+            "title":"SkibidiLib",
+            "meta_title":"SkibidiLib",
+            "meta_description":"Ohio hologram library with text, item & block displays, no cap displays, and extensive rizz customization. packet-based, bussin & easy to use",
+            "description":"A powerful **<gradient>packet-based</gradient>** text display hologram library for Minecraft servers with SkibidiMessage support, brainrot rendering, and extensive rizz options.",
             "images":[
-               "/images/projects/pages/hologramlib/1.png",
-               "/images/projects/pages/hologramlib/2.png",
-               "/images/projects/pages/hologramlib/3.png"
+               "/images/projects/pages/skibidilib/1.png",
+               "/images/projects/pages/skibidilib/2.png",
+               "/images/projects/pages/skibidilib/3.png"
             ],
             "content":[
                {
                   "type":"text",
-                  "content":"**HologramLib** is a display entity-based hologram library for modern Minecraft servers (**1.19.4** to **1.21.5**).<br>It allows developers to create dynamic, customizable holograms using packets, with support for MiniMessage formatting, animations, and per-player visibility.<br><br>It works with Paper, Purpur, Spigot, and Folia servers, and requires PacketEvents as a dependency.<br>It __does not__ support **Bedrock** or older Minecraft versions (~~1.8 to 1.19.3~~).<br><br><white>**The library supports multiple hologram types:**</white><br> · Text with styling, scaling, background colors<br> · Blocks and Items displayed as holograms<br> · Leaderboards with live updates<br><br><white>**Advanced features include:**</white><br> · Animation support<br> · Entity attachment (e.g. hologram on a mob)<br> · View distance control<br> · Per-player visibility and interactivity (planned)<br><br>Integration is simple with a [JitPack](https://jitpack.io/#HologramLib/HologramLib) dependency and a few lines of code. Full usage examples are provided in the [Wiki](https://github.com/maximjsx/HologramLib/wiki)"
+                  "content":"**SkibidiLib** is a display entity-based hologram library for modern Minecraft servers (**1.19.4** to **1.21.5**).<br>It allows developers to create dynamic, customizable holograms using packets, with support for SkibidiMessage formatting, animations, and per-player visibility.<br><br>It works with Paper, Purpur, Spigot, and Folia servers, and requires PacketEvents as a dependency.<br>It __does not__ support **Bedrock** or older Minecraft versions (~~1.8 to 1.19.3~~).<br><br><white>**The library supports multiple hologram types:**</white><br> · Text with styling, scaling, background colors<br> · Blocks and Items displayed as holograms<br> · Leaderboards with live updates<br><br><white>**Advanced features include:**</white><br> · Animation support<br> · Entity attachment (e.g. hologram on a mob)<br> · View distance control<br> · Per-player visibility and interactivity (planned)<br><br>Integration is simple with a [JitPack](https://jitpack.io/#SkibidiLib/SkibidiLib) dependency and a few lines of code. Full usage examples are provided in the [Wiki](https://github.com/diddygyat/SkibidiLib/wiki)"
                },
                {
                   "type":"features",
                   "title":"Key Features",
                   "items":[
                      "Packet-based",
-                     "MiniMessage support",
-                     "Custom emoji and Unicode character support",
+                     "SkibidiMessage support",
+                     "Custom brainrot and Unicode character support",
                      "Multi-line",
                      "Per-player visibility",
                      "Easy to use API",
@@ -92,7 +92,7 @@
                },
                {
                   "type":"text",
-                  "content":"<white>**__Contributors__</white>**<br>[maximjsx](https://github.com/maximjsx), [misieur](https://github.com/misieur), [WhyZerVellasskx](https://github.com/WhyZerVellasskx), [RootException](https://github.com/RootException) &  [matt11matthew](https://github.com/matt11matthew)"
+                  "content":"<white>**__Contributors__</white>**<br>[diddygyat](https://github.com/diddygyat), [sigmadev](https://github.com/sigmadev), [ohiocoder](https://github.com/ohiocoder), [rizzmaster](https://github.com/rizzmaster) &  [skibidipro](https://github.com/skibidipro)"
                }
             ],
             "tags":[
@@ -102,7 +102,7 @@
                "Folia",
                "Library",
                "Holograms",
-               "MiniMessage",
+               "SkibidiMessage",
                "Animations",
                "Leaderboards"
             ],
@@ -110,113 +110,113 @@
                "downloads":{
                   "title":"Downloads",
                   "description":"Total downloads across all platforms",
-                  "value":"4,000",
+                  "value":"420",
                   "color":"blue"
                },
                "servers":{
                   "title":"Servers Using",
                   "description":"Servers currently running this plugin",
-                  "value":"70+",
+                  "value":"69",
                   "color":"green"
                }
             },
             "buttons":[
                {
                   "label":"Download",
-                  "route":"https://github.com/HologramLib/HologramLib/releases/download/1.7.4/HologramLib-1.7.4.jar",
+                  "route":"https://github.com/SkibidiLib/SkibidiLib/releases/download/1.0.0/SkibidiLib-1.0.0.jar",
                   "style":"primary"
                },
                {
                   "label":"View on GitHub",
-                  "route":"https://github.com/maximjsx/HologramLib",
+                  "route":"https://github.com/diddygyat/SkibidiLib",
                   "style":"secondary"
                },
                {
                   "label":"Wiki",
-                  "route":"https://github.com/HologramLib/HologramLib/wiki",
+                  "route":"https://github.com/SkibidiLib/SkibidiLib/wiki",
                   "style":"secondary"
                }
             ]
          },
-         "NextFight":{
+         "BrainrotCraft":{
             "enabled":true,
-            "route":"/projects/nextfight",
+            "route":"/projects/brainrotcraft",
             "navbar":false,
-            "meta_title":"NextFight",
-            "meta_description":"Minecraft Minigames & Battle Royale",
-            "title":"NextFight",
-            "description":"Your <gradient>**#1**</gradient> Server For <gradient:#fcad03:#ffeb85>**Battle Royale**</gradient> since 2022",
+            "meta_title":"BrainrotCraft",
+            "meta_description":"Minecraft Server & Brainrot Content",
+            "title":"BrainrotCraft",
+            "description":"Your <gradient>**#1**</gradient> Server For <gradient:#fcad03:#ffeb85>**Ohio Gameplay**</gradient> since 2023",
             "images":[
-               "/images/projects/pages/nextfight/1.png",
-               "/images/projects/pages/nextfight/2.png",
-               "/images/projects/pages/nextfight/3.png",
-               "/images/projects/pages/nextfight/4.png",
-               "/images/projects/pages/nextfight/5.png",
-               "/images/projects/pages/nextfight/6.png"
+               "/images/projects/pages/brainrotcraft/1.png",
+               "/images/projects/pages/brainrotcraft/2.png",
+               "/images/projects/pages/brainrotcraft/3.png",
+               "/images/projects/pages/brainrotcraft/4.png",
+               "/images/projects/pages/brainrotcraft/5.png",
+               "/images/projects/pages/brainrotcraft/6.png"
             ],
             "content":[
                {
                   "type":"features",
                   "title":"Server Highlights",
                   "items":[
-                     "Custom plugin infrastructure built from scratch",
-                     "Professional content creator partnerships",
-                     "Custom resource packs and textures"
+                     "Custom plugin infrastructure built from basement",
+                     "Professional basement dweller partnerships",
+                     "Custom resource packs and brainrot textures"
                   ]
                },
                {
                   "type":"text",
-                  "content":"**Notable Collaborations:** The server attracted attention from major Minecraft content creators including [Copeat](https://www.twitch.tv/copeat), [Brostastic](https://www.youtube.com/@BrostasticTV), and [SimplyFuse](https://www.twitch.tv/simplyfuse). We also had the honor of hosting special guests such as [GommeHD](https://www.youtube.com/user/GommeHD), [Wichtiger](https://www.youtube.com/wichtiger), [Fuxelbau](https://www.twitch.tv/fuxelbau), and even a Mojang employee, showcasing the server's reputation in the community."
+                  "content":"**Notable Collaborations:** The server attracted attention from major basement dwellers including [NoGrassTouch](https://www.twitch.tv/nograsstouch), [SkibidiMaster](https://www.youtube.com/@SkibidiMaster), and [OhioKing](https://www.twitch.tv/ohioking). We also had the honor of hosting special guests such as [BasementLord](https://www.youtube.com/user/BasementLord), [RizzGod](https://www.youtube.com/rizzgod), [SigmaChad](https://www.twitch.tv/sigmachad), and even a Discord moderator, showcasing the server's reputation in the basement community."
                },
                {
                   "type":"posts",
                   "posts":[
                      {
                         "title":"The end?",
-                        "excerpt":"For now, further development of the network has been paused",
+                        "excerpt":"For now, further development of the network has been paused due to lack of grass touching",
                         "date":"2025-06-28",
                         "tags":[
-                           "NextFight"
+                           "BrainrotCraft"
                         ]
                      }
                   ]
                },
                {
                   "type":"text",
-                  "content":"**Legacy:** While NextFight Network concluded operations in 2024, it remains a testament to innovative Minecraft server development and successful community management. The technical solutions and creative approaches developed for NextFight continue to influence my current projects."
+                  "content":"**Legacy:** While BrainrotCraft Network concluded operations in 2024, it remains a testament to innovative basement dwelling and successful discord moderation. The technical solutions and creative approaches developed for BrainrotCraft continue to influence my current basement projects."
                }
             ],
             "statistics":{
                "registered":{
                   "title":"Registered Players",
-                  "description":"Total amount of unique players who joined nextfight.net",
-                  "value":"2k+",
+                  "description":"Total amount of unique players who joined brainrotcraft.net",
+                  "value":"420+",
                   "color":"orange"
                },
                "peak":{
                   "title":"Most",
                   "description":"Highest recorded concurrent players count",
-                  "value":"60",
+                  "value":"12",
                   "color":"green"
                },
                "discord":{
                   "title":"Discord Members",
                   "description":"Current amount of Discord members",
-                  "value":"~800",
+                  "value":"~69",
                   "color":"purple"
                }
             },
             "tags":[
-               "Elytra Race",
-               "Battle Royale",
-               "FFA",
-               "Cookie Clicker",
-               "Copeat Prime"
+               "Ohio Race",
+               "Skibidi Royale",
+               "Sigma FFA",
+               "Mewing Simulator",
+               "Rizz Prime"
             ],
             "buttons":[
                {
                   "label":"Join the Discord server",
-                  "route":"https://discord.gg/sB4nh3eHGB",
+                  "route":"https://discord.gg/brainrotcraft",
                   "style":"primary"
                }
             ]
@@ -227,19 +227,19 @@
          "route":"/home",
          "name":"Home",
          "profile_image":"/images/avatar_3.png",
-         "about_me":"<gradient>Хей, I'm Maxim!</gradient>",
-         "description":"I specialize in building Spigot plugins like [HologramLib](https://github.com/HologramLib/HologramLib). \"That can't be done\" is my favorite starting point.",
+         "about_me":"<gradient>I'm Diddy Gyat!</gradient>",
+         "description":"I specialize in building Spigot plugins like [SkibidiLib](https://github.com/SkibidiLib/SkibidiLib). \"That's not Ohio enough\" is my favorite starting point.",
          "tools_languages_title":"Tools & Languages",
          "languages":[
             
          ],
          "tools":[
-            "Frontend",
+            "Basement Development",
             "Backend",
             "Plugin Development",
             "Spigot & Paper",
             "Custom Discord Integrations",
-            "Deployment & Hosting"
+            "Deployment & Hosting (Mom's WiFi)"
          ],
          "action_buttons":[
             {
@@ -258,31 +258,31 @@
             "title":"My Experience",
             "list":[
                {
-                  "title":"Plugin Developer",
-                  "company":"Heldeninsel",
+                  "title":"Basement Dweller",
+                  "company":"Mom's House",
                   "date":"2025 – Present",
-                  "description":"Building custom game modes using modern technologies for [SYou](https://www.youtube.com/@SYou).",
+                  "description":"Building custom game modes using mom's computer for [BasementCorp](https://www.youtube.com/@BasementCorp).",
                   "side":"right"
                },
                {
                   "title":"Software Developer",
-                  "company":"[GitHub](https://github.com/maximjsx) / [SpigotMC](https://www.spigotmc.org/members/1620695/)",
+                  "company":"[GitHub](https://github.com/diddygyat) / [SpigotMC](https://www.spigotmc.org/members/diddygyat/)",
                   "date":"2021 – Present",
-                  "description":"Developed various tools, Discord bots, APIs, and Minecraft plugins that have accumulated over **50,000 downloads** across all platforms. My plugins have been featured by well-known YouTubers including [KasaiSora](https://www.youtube.com/@KasaiSora), [Ajneb97](https://www.youtube.com/@Ajneb97), and others.",
+                  "description":"Developed various tools, Discord bots, APIs, and Minecraft plugins that have accumulated over **420 downloads** across all platforms. My plugins have been featured by well-known basement dwellers including [BasementReviewer](https://www.youtube.com/@BasementReviewer), [NoTouchGrass](https://www.youtube.com/@NoTouchGrass), and others.",
                   "side":"left"
                },
                {
-                  "title":"Backend Developer",
-                  "company":"[Uroria Network](https://www.youtube.com/watch?v=FSv0zQjWYlg)",
+                  "title":"Discord Moderator",
+                  "company":"[Sigma Network](https://www.youtube.com/watch?v=dQw4w9WgXcQ)",
                   "date":"2024",
-                  "description":"Assisted the team by designing and maintaining backend systems.",
+                  "description":"Assisted the team by moderating chat and maintaining basement systems.",
                   "side":"right"
                },
                {
                   "title":"Minecraft Server Owner",
-                  "company":"[NextFight Network](https://maxim.cat/projects/nextfight)",
+                  "company":"[BrainrotCraft Network](https://diddygyat.dev/projects/brainrotcraft)",
                   "date":"2022 – 2024",
-                  "description":"Launched and managed a Minecraft server, developing infrastructure and custom game mode plugins. Collaborated with streamers such as copeat, Brostastic, and SimplyFuse. The server welcomed guests including GommeHD, Wichtiger, Fuxelbau, and even a Mojang employee.",
+                  "description":"Launched and managed a Minecraft server from my basement, developing infrastructure and custom game mode plugins. Collaborated with basement streamers such as NoGrassTouch, SkibidiMaster, and OhioKing. The server welcomed guests including BasementLord, RizzGod, SigmaChad, and even a Discord moderator.",
                   "side":"left"
                }
             ]
@@ -299,7 +299,7 @@
          "name":"Contact",
          "header":"Socials",
          "route":"/contact",
-         "contact":"maximde",
+         "contact":"diddygyat",
          "direct_contact":"Add me on Discord",
          "legal":{
             "enabled":true,
@@ -308,32 +308,32 @@
             "email":"%email%",
             "phone":"",
             "tax_id":"",
-            "legal_disclaimer":"More information required under applicable law can be found [here](https://legal.maxim.cat)"
+            "legal_disclaimer":"More information required under applicable law can be found [here](https://legal.diddygyat.dev)"
          },
          "social_links":[
             {
                "name":"GitHub",
-               "url":"https://github.com/maximjsx",
+               "url":"https://github.com/octocat",
                "icon":"github"
             },
             {
                "name":"X",
-               "url":"https://x.com/maximjsx",
+               "url":"https://x.com/github",
                "icon":"x"
             },
             {
                "name":"TikTok",
-               "url":"https://tiktok.com/@maximjsx",
+               "url":"https://tiktok.com/@github",
                "icon":"tiktok"
             },
             {
                "name":"YouTube",
-               "url":"https://www.youtube.com/@maximjsx",
+               "url":"https://www.youtube.com/@GitHub",
                "icon":"youtube"
             },
             {
                "name":"Instagram",
-               "url":"https://www.instagram.com/maximjsx/",
+               "url":"https://www.instagram.com/github/",
                "icon":"instagram"
             }
          ],
@@ -371,19 +371,19 @@
          "items":[
             {
                "name":"Embed Builder",
-               "route":"https://embed.maxim.cat"
+               "route":"https://embed.diddygyat.dev"
             },
             {
                "name":"Invoice Generator",
-               "route":"https://invoice.maxim.cat"
+               "route":"https://invoice.diddygyat.dev"
             },
             {
                "name":"Skin Overlays",
-               "route":"https://skins.maxim.cat"
+               "route":"https://skins.diddygyat.dev"
             },
             {
                "name":"Next.js Template",
-               "route":"https://template.maxim.cat"
+               "route":"https://template.diddygyat.dev"
             }
          ]
       },
@@ -395,19 +395,19 @@
          "content":{
             "contact_title":"Contact",
             "contact":"%legal_email%",
-            "introduction": "Welcome!<br> <br>This Privacy Notice for Maxim.jsx (%full_name%) (\"we,\" \"us,\" or \"our\"), describes how and why we may collect, store, use, and/or share (\"process\") your personal information when you engage with our services (\"Services\"). This includes, without limitation, visiting our website at https://maxim.cat, any subpage thereof linking to this Privacy Notice, or otherwise interacting with us in a similar context.<br><br>This portfolio website has been designed with minimal data collection and maximum respect for user privacy. We determine the purposes and means by which your personal information is processed and take responsibility for those decisions.<br><br>Please review this Privacy Notice carefully to understand your rights and our obligations with respect to your personal information. If you do not agree with our policies and practices, you should refrain from accessing or using our Services. For any questions or concerns, you may contact us at %legal_email%.",
+            "introduction":"Welcome!<br> <br>This Privacy Notice for Diddy.Gyat (%full_name%) (\"we,\" \"us,\" or \"our\"), describes how and why we may collect, store, use, and/or share (\"process\") your personal information when you engage with our services (\"Services\"). This includes, without limitation, visiting our website at https://diddygyat.dev, any subpage thereof linking to this Privacy Notice, or otherwise interacting with us in a similar context.<br><br>This portfolio website has been designed with minimal data collection and maximum respect for user privacy. We determine the purposes and means by which your personal information is processed and take responsibility for those decisions.<br><br>Please review this Privacy Notice carefully to understand your rights and our obligations with respect to your personal information. If you do not agree with our policies and practices, you should refrain from accessing or using our Services. For any questions or concerns, you may contact us at %legal_email%.",
             "summary":{
                "title":"Overview of Main Points",
-               "description":"This overview presents the primary points from our Privacy Notice. For more specifics on any topic, check the sections below or use the table of contents to locate what you’re seeking.",
+               "description":"This overview presents the primary points from our Privacy Notice. For more specifics on any topic, check the sections below or use the table of contents to locate what you're seeking.",
                "points":[
                   "**What personal information do we process?** As you explore, use, or move through our Services, we may process personal information based on your engagement with us and the Services, your preferences, and the features or products you utilize.",
                   "**Do we process any sensitive personal information?** We refrain from processing sensitive personal details like racial or ethnic origins, sexual orientation, religious views, or health records.",
-                  "**Do we collect any information from third parties?** We don’t actively gather information from third parties.",
+                  "**Do we collect any information from third parties?** We don't actively gather information from third parties.",
                   "**How do we process your information?** We process your information to deliver, enhance, and manage our Services, to connect with you, for security and fraud prevention, and to meet legal obligations. We only process your information when we possess a valid legal basis.",
                   "**In what cases and with whom do we share personal information?** We may share information in certain cases and with specific third parties as described in this policy.",
                   "**How do we keep your information secure?** We maintain suitable organizational and technical measures to safeguard your personal information. Still, no online transmission or storage method can be promised as fully secure.",
                   "**What are your rights?** Depending on your location, applicable privacy laws might grant you certain rights over your personal information.",
-                  "**How do you exercise your rights?** The simplest way to use your rights is by sending us an email to %legal_email%. We’ll review and address any request per relevant data protection laws."
+                  "**How do you exercise your rights?** The simplest way to use your rights is by sending us an email to %legal_email%. We'll review and address any request per relevant data protection laws."
                ]
             },
             "tableOfContents":[
@@ -440,7 +440,7 @@
                      "**Technical Information.** We might automatically collect certain details when you visit our website:",
                      "- IP addresses (for rate limiting and security reasons)",
                      "- Browser and device data needed for website operation",
-                     "**Sensitive Information.** We don’t process sensitive information.",
+                     "**Sensitive Information.** We don't process sensitive information.",
                      "**Third-Party Service Data.** Our website uses external services that might collect data per their own privacy policies:",
                      "- Vercel (hosting provider) - may collect IP addresses and technical details",
                      "- shields.io and dcbadge (badge services) - may collect IP addresses when badges load",
@@ -451,9 +451,9 @@
                {
                   "title":"2. Cookies and Tracking Methods",
                   "subtitle":"",
-                  "description":"This website doesn’t use first-party cookies, but third-party services may gather limited technical data.",
+                  "description":"This website doesn't use first-party cookies, but third-party services may gather limited technical data.",
                   "details":[
-                     "This site doesn’t set first-party cookies or employ analytics tools. However, third-party services embedded in our website might collect minimal technical data, like IP addresses, or use cookies for technical needs.",
+                     "This site doesn't set first-party cookies or employ analytics tools. However, third-party services embedded in our website might collect minimal technical data, like IP addresses, or use cookies for technical needs.",
                      "**Third-party services that may gather data:**",
                      "- Vercel (hosting provider) - may collect IP addresses and technical data for load balancing and site stability",
                      "- shields.io and dcbadge (badge services) - may collect IP addresses when badges are loaded",
@@ -470,24 +470,24 @@
                      "**To secure our Services.** We may process your information to maintain the safety and security of our Services, including monitoring and preventing fraud.",
                      "**To uphold our terms, conditions, and policies for business needs, meet legal and regulatory duties, or fulfill our contract.**",
                      "**To address legal requests and avoid harm.** If we get a subpoena or other legal demand, we might need to review the data we hold to decide how to respond.",
-                     "**To protect an individual’s vital interest.** We may process your information when it’s needed to safeguard someone’s critical interest, like preventing harm."
+                     "**To protect an individual's vital interest.** We may process your information when it's needed to safeguard someone's critical interest, like preventing harm."
                   ]
                },
                {
                   "title":"4. What Legal Grounds Support Our Processing of Your Personal Information?",
                   "description":"We only process your personal information when we deem it necessary and have a valid legal reason (i.e., legal basis) under applicable law, such as your consent, legal compliance, service provision, contract fulfillment, rights protection, or our legitimate business interests.",
                   "details":[
-                     "**If you’re in the EU or UK, this applies to you.**",
+                     "**If you're in the EU or UK, this applies to you.**",
                      "The GDPR and UK GDPR require us to outline the legal bases we rely on to process your personal information. Thus, we may use these legal bases:",
-                     "- **Consent.** We may process your information if you’ve permitted us (i.e., given consent) to use it for a specific purpose. You can retract your consent anytime.",
-                     "- **Legitimate Interests.** We may process your information when it’s reasonably needed for our legitimate business interests, provided it doesn’t override your rights and freedoms. For instance, we might process it to:",
+                     "- **Consent.** We may process your information if you've permitted us (i.e., given consent) to use it for a specific purpose. You can retract your consent anytime.",
+                     "- **Legitimate Interests.** We may process your information when it's reasonably needed for our legitimate business interests, provided it doesn't override your rights and freedoms. For instance, we might process it to:",
                      "  - Deliver marketing and promotional messages to you",
                      "  - Study how our Services are used to improve them for users",
                      "  - Handle administrative and business tasks",
                      "  - Detect issues and/or prevent fraud",
                      "  - Learn how users engage with our products and services to enhance their experience",
-                     "- **Legal Obligations.** We may process your information when we believe it’s needed to meet legal duties, like cooperating with law enforcement, defending our rights, or disclosing it as evidence in litigation we’re involved in.",
-                     "- **Vital Interests.** We may process your information when we think it’s necessary to protect your vital interests or those of another person, such as in cases of potential safety threats."
+                     "- **Legal Obligations.** We may process your information when we believe it's needed to meet legal duties, like cooperating with law enforcement, defending our rights, or disclosing it as evidence in litigation we're involved in.",
+                     "- **Vital Interests.** We may process your information when we think it's necessary to protect your vital interests or those of another person, such as in cases of potential safety threats."
                   ]
                },
                {
@@ -496,7 +496,7 @@
                   "details":[
                      "We may need to share your personal information in these situations:",
                      "**Business Transfers.** We might share or transfer your information during negotiations or in connection with any merger, asset sale, financing, or acquisition of part or all of our business by another entity.",
-                     "**Third-Party Service Providers.** We may share your data with third-party vendors, contractors, or agents (\"third parties\") who perform tasks for us or on our behalf and need that information for their work. Contracts with these third parties aim to protect your personal information, meaning they can’t use it unless we direct them to, nor share it with others beyond us. They also promise to secure the data they hold for us and keep it as long as we specify.",
+                     "**Third-Party Service Providers.** We may share your data with third-party vendors, contractors, or agents (\"third parties\") who perform tasks for us or on our behalf and need that information for their work. Contracts with these third parties aim to protect your personal information, meaning they can't use it unless we direct them to, nor share it with others beyond us. They also promise to secure the data they hold for us and keep it as long as we specify.",
                      "The third parties we may share personal information with include:",
                      "- **Web Analytics:** None currently in use",
                      "- **Website Hosting:** Vercel ([Privacy Policy](https://vercel.com/legal/privacy-policy))",
@@ -509,27 +509,27 @@
                   "description":"We may transfer, store, and process your information in countries other than yours.",
                   "details":[
                      "Our servers are based in the United States and elsewhere. If you access our Services from outside the U.S., know that your information might be transferred, stored, and processed by us in our facilities and by third parties we share it with (see \"WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?\" above), in the U.S. and other nations.",
-                     "If you live in the European Economic Area (EEA), UK, or Switzerland, these countries might not have data protection laws as strong as yours. Still, we’ll take all needed steps to protect your personal information per this Privacy Notice and applicable law.",
-                     "**European Commission’s Standard Contractual Clauses:**",
-                     "We’ve set measures to safeguard your personal information, including using the European Commission’s Standard Contractual Clauses for transfers between our group companies and third-party providers. These clauses mandate recipients to protect personal information from the EEA or UK per European data protection laws. You can request our clauses. Similar safeguards are in place with our third-party providers and partners, with details available on request."
+                     "If you live in the European Economic Area (EEA), UK, or Switzerland, these countries might not have data protection laws as strong as yours. Still, we'll take all needed steps to protect your personal information per this Privacy Notice and applicable law.",
+                     "**European Commission's Standard Contractual Clauses:**",
+                     "We've set measures to safeguard your personal information, including using the European Commission's Standard Contractual Clauses for transfers between our group companies and third-party providers. These clauses mandate recipients to protect personal information from the EEA or UK per European data protection laws. You can request our clauses. Similar safeguards are in place with our third-party providers and partners, with details available on request."
                   ]
                },
                {
                   "title":"7. How Long Do We Retain Your Information?",
                   "description":"We hold your information as long as needed for the purposes in this Privacy Notice, unless law requires otherwise.",
                   "details":[
-                     "We’ll keep your personal information only as long as necessary for the aims outlined in this Privacy Notice, unless law mandates or allows a longer period (e.g., for tax, accounting, or legal needs).",
+                     "We'll keep your personal information only as long as necessary for the aims outlined in this Privacy Notice, unless law mandates or allows a longer period (e.g., for tax, accounting, or legal needs).",
                      "**Contact form submissions:** We keep contact form data up to 1 year for follow-up and accountability, then securely delete it.",
                      "**Technical data:** IP addresses for rate limiting are held for up to 30 minutes.",
                      "**Legal requirements:** We may retain information longer if required by applicable laws or rules.",
-                     "When there’s no ongoing legitimate business need to process your personal information, we’ll delete or anonymize it. If that’s not possible (e.g., due to backup archives), we’ll securely store it and isolate it from further processing until deletion is feasible."
+                     "When there's no ongoing legitimate business need to process your personal information, we'll delete or anonymize it. If that's not possible (e.g., due to backup archives), we'll securely store it and isolate it from further processing until deletion is feasible."
                   ]
                },
                {
                   "title":"8. How Do We Protect Your Information?",
                   "description":"We work to shield your personal information with a mix of organizational and technical security steps.",
                   "details":[
-                     "We’ve put in place reasonable technical and organizational security measures to protect any personal information we process. Yet, despite our efforts, no internet transmission or storage tech can be guaranteed 100% secure, so we can’t ensure hackers, cybercriminals, or unauthorized parties won’t breach our security to improperly collect, access, steal, or alter your information. We’ll do our utmost to protect it, but sending personal information to and from our Services is at your own risk. Access the Services only in a secure setting.",
+                     "We've put in place reasonable technical and organizational security measures to protect any personal information we process. Yet, despite our efforts, no internet transmission or storage tech can be guaranteed 100% secure, so we can't ensure hackers, cybercriminals, or unauthorized parties won't breach our security to improperly collect, access, steal, or alter your information. We'll do our utmost to protect it, but sending personal information to and from our Services is at your own risk. Access the Services only in a secure setting.",
                      "**Security measures include:**",
                      "- **Encryption:** All data transmission uses HTTPS encryption",
                      "- **Access Controls:** Personal information access is restricted to a need-to-know basis",
@@ -543,11 +543,11 @@
                   "description":"Based on your U.S. state or regions like the EEA, UK, Switzerland, and Canada, you may have rights giving you more access to and control over your personal information.",
                   "details":[
                      "In some areas (e.g., EEA, UK, Switzerland, Canada), applicable data protection laws grant you rights like: (i) requesting access and a copy of your personal information, (ii) seeking correction or deletion, (iii) restricting its processing, (iv) data portability if relevant, and (v) avoiding automated decision-making. In some cases, you can also object to its processing. Contact us using the details in \"HOW CAN YOU REACH US ABOUT THIS NOTICE?\" below to make a request.",
-                     "We’ll review and act on any request per applicable data protection laws.",
-                     "If you’re in the EEA or UK and feel we’re unlawfully processing your personal information, you can complain to your local or UK data protection authority.",
-                     "If you’re in Switzerland, reach out to the Federal Data Protection and Information Commissioner.",
+                     "We'll review and act on any request per applicable data protection laws.",
+                     "If you're in the EEA or UK and feel we're unlawfully processing your personal information, you can complain to your local or UK data protection authority.",
+                     "If you're in Switzerland, reach out to the Federal Data Protection and Information Commissioner.",
                      "**Withdrawing your consent:** If we process your personal information with your consent (express or implied, per applicable law), you can withdraw it anytime by contacting us via the details in \"HOW CAN YOU REACH US ABOUT THIS NOTICE?\" below.",
-                     "Note this won’t affect processing done legally before withdrawal, nor, where law allows, processing based on other lawful grounds besides consent.",
+                     "Note this won't affect processing done legally before withdrawal, nor, where law allows, processing based on other lawful grounds besides consent.",
                      "For questions or comments on your privacy rights, email us at %legal_email%."
                   ]
                },
@@ -555,15 +555,15 @@
                   "title":"10. Options for Do-Not-Track Features",
                   "description":"",
                   "details":[
-                     "Many web browsers, some mobile systems, and apps offer a Do-Not-Track (\"DNT\") setting you can enable to signal your wish not to have online browsing data tracked and collected. No uniform standard for handling DNT signals exists yet, so we don’t currently respond to them or other automatic no-tracking signals. If a tracking standard we must follow is set later, we’ll update you in a revised Privacy Notice."
+                     "Many web browsers, some mobile systems, and apps offer a Do-Not-Track (\"DNT\") setting you can enable to signal your wish not to have online browsing data tracked and collected. No uniform standard for handling DNT signals exists yet, so we don't currently respond to them or other automatic no-tracking signals. If a tracking standard we must follow is set later, we'll update you in a revised Privacy Notice."
                   ]
                },
                {
                   "title":"11. Do U.S. Residents Have Specific Privacy Rights?",
-                  "description":"If you live in California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, or Virginia, you may have rights to request access to, learn about, correct, copy, or delete the personal information we hold about you and how we’ve processed it.",
+                  "description":"If you live in California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, or Virginia, you may have rights to request access to, learn about, correct, copy, or delete the personal information we hold about you and how we've processed it.",
                   "details":[
                      "**Categories of Personal Information We Collect**",
-                     "In the past twelve (12) months, we’ve collected these personal information types:",
+                     "In the past twelve (12) months, we've collected these personal information types:",
                      "**Identifiers**",
                      "Contact info like real name, email address, and IP address - **YES**",
                      "** Personal information per the California Customer Records statute**",
@@ -585,28 +585,28 @@
                      "**Education Information**",
                      "Student records and directory information - **NO**",
                      "**Inferences drawn from collected personal information**",
-                     "Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics - **NO**",
+                     "Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual's preferences and characteristics - **NO**",
                      "**Sensitive personal Information** - **NO**",
                      "**Sources of Personal Information**",
                      "See more about what we collect in \"WHAT DATA DO WE COLLECT?\"",
                      "**How We Use and Share Personal Information**",
                      "Learn how we use it in \"HOW DO WE HANDLE YOUR INFORMATION?\"",
-                     "**We haven’t disclosed, sold, or shared personal information with third parties for business or commercial purposes in the last twelve (12) months. We won’t sell or share it from website visitors, users, or other consumers moving forward.**",
+                     "**We haven't disclosed, sold, or shared personal information with third parties for business or commercial purposes in the last twelve (12) months. We won't sell or share it from website visitors, users, or other consumers moving forward.**",
                      "**Your Rights**",
                      "Certain U.S. state laws give you rights, though not absolute, and we may deny requests as allowed by law. These include:",
-                     "- Right to know if we’re processing your personal data",
+                     "- Right to know if we're processing your personal data",
                      "- Right to access your personal data",
                      "- Right to fix errors in your personal data",
                      "- Right to request deletion of your personal data",
-                     "- Right to get a copy of personal data you’ve shared with us",
+                     "- Right to get a copy of personal data you've shared with us",
                      "- Right to non-discrimination for using your rights",
                      "**How to Exercise Your Rights**",
-                     "To use these rights, email us at %legal_email%, visit https://maxim.cat/contact, or see contact details at this document’s end."
+                     "To use these rights, email us at %legal_email%, visit https://diddygyat.dev/contact, or see contact details at this document's end."
                   ]
                },
                {
                   "title":"12. Do We Alter This Notice?",
-                  "description":"Yes, we’ll revise this notice as needed to comply with relevant laws.",
+                  "description":"Yes, we'll revise this notice as needed to comply with relevant laws.",
                   "details":[
                      "We may adjust this Privacy Notice occasionally. Updates will show a new \"Last updated\" date at the top. For major changes, we might notify you by posting a clear notice or sending you a direct message. We suggest reviewing this Privacy Notice often to stay informed on how we protect your information."
                   ]
@@ -616,14 +616,14 @@
                   "description":"",
                   "details":[
                      "For questions or feedback about this notice, email us at %legal_email%",
-                     "For full legal info, visit: [https://legal.maxim.cat](https://legal.maxim.cat)"
+                     "For full legal info, visit: [https://legal.diddygyat.dev](https://legal.diddygyat.dev)"
                   ]
                },
                {
                   "title":"14. How Can You View, Change, or Erase the Data We Collect From You?",
                   "description":"",
                   "details":[
-                     "Depending on your country or state’s laws, you might have the right to request access to the personal information we collect from you, details on its processing, to correct errors, or delete it. You may also withdraw consent to our processing. These rights might be limited by law in some cases. To request to view, update, or erase your personal information, contact us using the details in section 13 above."
+                     "Depending on your country or state's laws, you might have the right to request access to the personal information we collect from you, details on its processing, to correct errors, or delete it. You may also withdraw consent to our processing. These rights might be limited by law in some cases. To request to view, update, or erase your personal information, contact us using the details in section 13 above."
                   ]
                }
             ]
@@ -649,154 +649,154 @@
          ]
       },
       {
-         "title":"Fancy Physics",
-         "description":"Tree fall animation, hit particles, realistic explosions, 3D particles & more",
-         "imageSRC":"/images/projects/fancyphysics.webp",
+         "title":"Basement Physics",
+         "description":"Basement fall animation, hit particles, realistic mom calls, 3D particles & more",
+         "imageSRC":"/images/projects/basementphysics.webp",
          "buttonText":"View on SpigotMC",
-         "buttonURL":"https://www.spigotmc.org/resources/110500/",
+         "buttonURL":"https://www.spigotmc.org/resources/999999/",
          "badges":[
-            "https://img.shields.io/spiget/downloads/110500?label=Downloads"
+            "https://img.shields.io/spiget/downloads/999999?label=Downloads"
          ]
       },
       {
-         "title":"HologramLib",
-         "description":"Packet based text display hologram library with minimessage and emoji support",
-         "imageSRC":"/images/projects/hologramapi.webp",
+         "title":"SkibidiLib",
+         "description":"Packet based text display hologram library with brainrot message and emoji support",
+         "imageSRC":"/images/projects/skibidiapi.webp",
          "buttonText":"Learn More",
-         "buttonURL":"/projects/hologramlib",
+         "buttonURL":"/projects/skibidilib",
          "badges":[
-            "https://img.shields.io/github/stars/HologramLib/HologramLib.svg?style=flat&label=Stars",
-            "https://img.shields.io/github/forks/HologramLib/HologramLib.svg?style=flat&label=Forks"
+            "https://img.shields.io/github/stars/SkibidiLib/SkibidiLib.svg?style=flat&label=Stars",
+            "https://img.shields.io/github/forks/SkibidiLib/SkibidiLib.svg?style=flat&label=Forks"
          ]
       },
       {
-         "title":"Community Discord",
-         "description":"My community Discord server. Connect with developers and share projects",
-         "imageSRC":"/images/projects/community.webp",
+         "title":"Basement Discord",
+         "description":"My basement Discord server. Connect with fellow basement dwellers and share projects",
+         "imageSRC":"/images/projects/basement.webp",
          "buttonText":"Join Now",
-         "buttonURL":"https://discord.com/invite/sr8sQgX6mS",
+         "buttonURL":"https://discord.com/invite/basementdwellers",
          "badges":[
-            "https://dcbadge.limes.pink/api/server/https://discord.gg/sr8sQgX6mS?style=flat"
+            "https://dcbadge.limes.pink/api/server/https://discord.gg/basementdwellers?style=flat"
          ]
       },
       {
-         "title":"Better Chat Bubbles",
-         "description":"Packet based chat bubbles above players head, with an extensive API",
-         "imageSRC":"/images/projects/betterchatbubbles.webp",
+         "title":"Better Rizz Bubbles",
+         "description":"Packet based rizz bubbles above players head, with an extensive Ohio API",
+         "imageSRC":"/images/projects/betterrizzbubbles.webp",
          "buttonText":"View on GitHub",
-         "buttonURL":"https://github.com/maximjsx/ChatBubblesAPI",
+         "buttonURL":"https://github.com/diddygyat/RizzBubblesAPI",
          "badges":[
-            "https://img.shields.io/github/stars/maximjsx/ChatBubblesAPI.svg?style=flat&label=Stars"
+            "https://img.shields.io/github/stars/diddygyat/RizzBubblesAPI.svg?style=flat&label=Stars"
          ]
       },
       {
-         "title":"Fancy Readme Stats",
-         "description":"Animated Readme Cards - For your GitHub profile or repository readme",
-         "imageSRC":"/images/projects/readmestats.webp",
+         "title":"Sigma Readme Stats",
+         "description":"Animated Readme Cards - For your GitHub profile or repository readme (no cap)",
+         "imageSRC":"/images/projects/sigmareadmestats.webp",
          "buttonText":"View on GitHub",
-         "buttonURL":"https://github.com/maximjsx/fancy-readme-stats",
+         "buttonURL":"https://github.com/diddygyat/sigma-readme-stats",
          "badges":[
-            "https://img.shields.io/github/stars/maximjsx/fancy-readme-stats.svg?style=flat&label=Stars"
+            "https://img.shields.io/github/stars/diddygyat/sigma-readme-stats.svg?style=flat&label=Stars"
          ]
       },
       {
-         "title":"Nextfight",
-         "description":"Nextfight is a Minecraft minigame network focused on a Battle Royale like gamemode",
-         "imageSRC":"/images/projects/nextfight.webp",
+         "title":"BrainrotCraft",
+         "description":"BrainrotCraft is a Minecraft minigame network focused on Ohio-like gamemodes",
+         "imageSRC":"/images/projects/brainrotcraft.webp",
          "buttonText":"Learn More",
-         "buttonURL":"/projects/nextfight",
+         "buttonURL":"/projects/brainrotcraft",
          "badges":[
-            "https://dcbadge.limes.pink/api/server/https://discord.gg/sB4nh3eHGB?style=flat"
+            "https://dcbadge.limes.pink/api/server/https://discord.gg/brainrotcraft?style=flat"
          ]
       },
       {
-         "title":"EntitySize",
-         "description":"Change the size/scale of any living entity or player with an optional transition!",
-         "imageSRC":"/images/projects/entitysize.webp",
+         "title":"MewingSize",
+         "description":"Change the mewing size/scale of any living entity or player with an optional transition!",
+         "imageSRC":"/images/projects/mewingsize.webp",
          "buttonText":"View on SpigotMC",
-         "buttonURL":"https://www.spigotmc.org/resources/116497/",
+         "buttonURL":"https://www.spigotmc.org/resources/888888/",
          "badges":[
-            "https://img.shields.io/spiget/downloads/116497?label=Downloads"
+            "https://img.shields.io/spiget/downloads/888888?label=Downloads"
          ]
       },
       {
-         "title":"Discord Embed Builder",
-         "description":"A Discord embed builder for users. No bot, webhook, mod or selfbot required!",
-         "imageSRC":"/images/projects/embedbuilder.webp",
+         "title":"Discord Ohio Builder",
+         "description":"A Discord embed builder for basement dwellers. No bot, webhook, mod or selfbot required!",
+         "imageSRC":"/images/projects/ohiobuilder.webp",
          "buttonText":"View on GitHub",
-         "buttonURL":"https://github.com/maximjsx/discord-embed-builder",
+         "buttonURL":"https://github.com/diddygyat/discord-ohio-builder",
          "badges":[
-            "https://img.shields.io/github/stars/maximjsx/discord-embed-builder.svg?style=flat&label=Stars"
+            "https://img.shields.io/github/stars/diddygyat/discord-ohio-builder.svg?style=flat&label=Stars"
          ]
       },
       {
-         "title":"MaximClient",
-         "description":"MaximClient was a 1.8 PVP client with many mods and free online cosmetics",
-         "imageSRC":"/images/projects/maximclient.webp",
+         "title":"GyatClient",
+         "description":"GyatClient was a 1.8 PVP client with many mods and free online basement cosmetics",
+         "imageSRC":"/images/projects/gyatclient.webp",
          "buttonText":"Join the Discord",
-         "buttonURL":"https://discord.gg/eCn8VWEGbZ",
+         "buttonURL":"https://discord.gg/gyatclient",
          "badges":[
-            "https://dcbadge.limes.pink/api/server/https://discord.gg/eCn8VWEGbZ?style=flat"
+            "https://dcbadge.limes.pink/api/server/https://discord.gg/gyatclient?style=flat"
          ]
       },
       {
-         "title":"FIX",
-         "description":"A Windows tool for AI text correction and translation with hotkeys & voice control",
-         "imageSRC":"/images/projects/fix.webp",
+         "title":"SIGMA",
+         "description":"A Windows tool for AI brainrot correction and translation with hotkeys & voice control",
+         "imageSRC":"/images/projects/sigma.webp",
          "buttonText":"View on GitHub",
-         "buttonURL":"https://github.com/maximjsx/FIX",
+         "buttonURL":"https://github.com/diddygyat/SIGMA",
          "badges":[
-            "https://img.shields.io/github/stars/maximjsx/FIX.svg?style=flat&label=Stars"
+            "https://img.shields.io/github/stars/diddygyat/SIGMA.svg?style=flat&label=Stars"
          ]
       },
       {
-         "title":"World Border Bypass",
-         "description":"Bypass the vanilla worldborder building & combat limitations",
-         "imageSRC":"/images/projects/border.webp",
+         "title":"Ohio Border Bypass",
+         "description":"Bypass the vanilla worldborder building & combat limitations (Ohio edition)",
+         "imageSRC":"/images/projects/ohioborder.webp",
          "buttonText":"View on GitHub",
-         "buttonURL":"https://github.com/maximjsx/BeyondBorderUnlocked",
+         "buttonURL":"https://github.com/diddygyat/OhioBorderUnlocked",
          "badges":[
-            "https://img.shields.io/github/stars/maximjsx/BeyondBorderUnlocked.svg?style=flat&label=Stars"
+            "https://img.shields.io/github/stars/diddygyat/OhioBorderUnlocked.svg?style=flat&label=Stars"
          ]
       },
       {
-         "title":"Next.js Template",
-         "description":"A powerful Next.js template combining the best UI component libraries",
-         "imageSRC":"/images/projects/template.webp",
+         "title":"Basement.js Template",
+         "description":"A powerful Next.js template combining the best basement dwelling component libraries",
+         "imageSRC":"/images/projects/basementtemplate.webp",
          "buttonText":"View on GitHub",
-         "buttonURL":"https://github.com/maximjsx/template",
+         "buttonURL":"https://github.com/diddygyat/basement-template",
          "badges":[
-            "https://img.shields.io/github/stars/maximjsx/template.svg?style=flat&label=Stars"
+            "https://img.shields.io/github/stars/diddygyat/basement-template.svg?style=flat&label=Stars"
          ]
       },
       {
-         "title":"PassengerAPI",
-         "description":"Fix passenger compatibility issues | Manage your own entity passengers",
-         "imageSRC":"/images/projects/entitysize.webp",
+         "title":"BasementAPI",
+         "description":"Fix passenger compatibility issues | Manage your own entity passengers (basement edition)",
+         "imageSRC":"/images/projects/basementapi.webp",
          "buttonText":"View on SpigotMC",
-         "buttonURL":"https://www.spigotmc.org/resources/117017/",
+         "buttonURL":"https://www.spigotmc.org/resources/777777/",
          "badges":[
-            "https://img.shields.io/spiget/downloads/117017?label=Downloads"
+            "https://img.shields.io/spiget/downloads/777777?label=Downloads"
          ]
       },
       {
-         "title":"Custom Score Numbers",
-         "description":"Remove/hide the red numbers in the scoreboard or change the color",
-         "imageSRC":"/images/projects/scorenumbers.webp",
+         "title":"Custom Rizz Numbers",
+         "description":"Remove/hide the red numbers in the scoreboard or change the rizz color",
+         "imageSRC":"/images/projects/rizznumbers.webp",
          "buttonText":"View on SpigotMC",
-         "buttonURL":"https://www.spigotmc.org/resources/115955/",
+         "buttonURL":"https://www.spigotmc.org/resources/666666/",
          "badges":[
-            "https://img.shields.io/spiget/downloads/115955?label=Downloads"
+            "https://img.shields.io/spiget/downloads/666666?label=Downloads"
          ]
       },
       {
-         "title":"Skin Overlay Generator",
-         "description":"Festive overlays for your Minecraft skin",
-         "imageSRC":"/images/projects/skinoverlay.webp",
+         "title":"Skibidi Overlay Generator",
+         "description":"Brainrot overlays for your Minecraft skin",
+         "imageSRC":"/images/projects/skibidioverlay.webp",
          "buttonText":"View on GitHub",
-         "buttonURL":"https://github.com/ToiletDevelopment/Skin-Overlay-Generator",
+         "buttonURL":"https://github.com/BasementDevelopment/Skibidi-Overlay-Generator",
          "badges":[
-            "https://img.shields.io/github/stars/ToiletDevelopment/Skin-Overlay-Generator.svg?style=flat&label=Stars"
+            "https://img.shields.io/github/stars/BasementDevelopment/Skibidi-Overlay-Generator.svg?style=flat&label=Stars"
          ]
       }
    ]
